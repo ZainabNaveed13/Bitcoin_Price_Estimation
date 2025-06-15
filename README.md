@@ -19,7 +19,8 @@ This project is a **Streamlit-based web app** that integrates machine learning a
    git clone https://github.com/ZainabNaveed13/Bitcoin_Price_Estimation.git
    cd Bitcoin_Price_Estimation
 
-   ## 🔧 Install Dependencies
+  ## 🔧 Install Dependencies
 
+```bash
+pip install -r requirements.txt
 
----pip install -r requirements.txt
