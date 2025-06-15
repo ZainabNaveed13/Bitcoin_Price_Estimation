@@ -12,21 +12,6 @@ This project is a **Streamlit-based web app** that integrates machine learning a
 - 📊 Interactive Streamlit UI for real-time predictions and visualizations
 - 🧠 Model files stored for reproducibility: `.pkl` and `.h5`
 
----
-
-## 📁 Project Structure
-
-Bitcoin_Price_Estimation/
-│
-├── app.py                     # Streamlit app
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-│
-├── models/                    # Pretrained models
-│   ├── rf_model.pkl           # Random Forest classifier
-│   ├── tfidf_vectorizer.pkl   # TF-IDF vectorizer
-│   └── btc_lstm_model.h5      # LSTM model for price prediction
-
 ## 🛠️ How to Run
 
 1. **Clone the repository**
@@ -37,4 +22,4 @@ Bitcoin_Price_Estimation/
    ## 🔧 Install Dependencies
 
 
-pip install -r requirements.txt
+---pip install -r requirements.txt
